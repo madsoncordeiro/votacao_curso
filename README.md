@@ -1,1 +1,1 @@
-# votacao_curso
+Programa elaborado para descobrir o resultado da pesquisa realizada através de votação para mostrar o número total e a porcentagem de votos para cada um dos cursos, além de relatar qual curso obteve mais votos.
